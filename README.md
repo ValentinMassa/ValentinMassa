@@ -3,7 +3,6 @@
 :computer: **Student of IT engineer**
 :pencil: **Back-end developer .NET**
 
-### Contact Me
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/ValentinMassa/ValentinMassa/main)
 
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/ValentinMassa/C-and-.NET/main)
