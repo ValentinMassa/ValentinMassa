@@ -29,7 +29,7 @@ Currently, I work in a networking position configurating servers and optimizing 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
 ### *_Contact me_*
-<a href="www.linkedin.com/in/massavalentin" target="_blank">
+<a href="https://www.linkedin.com/in/massavalentin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedn-0077B5?style=flat&logo=LinkedIn&logoColor=white" />
 </a>
 <a href="mailto:valeenmassa2002@gmail.com" target="_blank">
@@ -38,6 +38,7 @@ Currently, I work in a networking position configurating servers and optimizing 
 
 ### _Activity_
 
-<img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show icons=true&theme=radical" style="display:block; margin:auto; width:400px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&theme=radical" style="display:block; margin:auto; width:400px;" />
+
 
 
