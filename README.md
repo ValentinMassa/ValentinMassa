@@ -1,24 +1,43 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1d4ed8&font=Poppins&text=Valentin%20Massa&fontSize=70&animation=fadeIn&desc=Back-End%20Developer&descAlignY=72&descSize=&descFontColor=6b7280" />
+</div>
 
-:computer: **Student of IT engineer**
+## **_About Me_**
 
-:pencil: **Back-end developer .NET**
+<div align="left">
 
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/ValentinMassa/ValentinMassa/main)
+I'm a Back-end developer with a strong ability to learn quickly, enabling me to achieve my goals effectively.  
+Currently, I work in a networking position configurating servers and optimizing networks.  
 
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/ValentinMassa/C-and-.NET/main)
+💻 **Student of Computer engineer**  
+🚀 **Back-end developer .NET**
 
-<!--
-**ValentinMassa/ValentinMassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+## **_Technologies and Tools_**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.NET&logoColor=white)
+![DOCKER](https://img.shields.io/badge/DOCKER-red)
+![Static Badge](https://img.shields.io/badge/C-red)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%20Sharp&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+
+### *_Contact me_*
+<a href="www.linkedin.com/in/massavalentin" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedn-0077B5?style=flat&logo=LinkedIn&logoColor=white" />
+</a>
+<a href="mailto:valeenmassa2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" />
+</a>
+
+### _Activity_
+
+<img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show icons=true&theme=radical" style="display:block; margin:auto; width:400px;" />
+
+
