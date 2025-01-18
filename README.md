@@ -38,14 +38,15 @@ Currently, I work in a networking position configurating servers and optimizing 
 
 ### _Activity_
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  <div style="border: 2px solid #000; background-color: #333; color: white; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&theme=radical" style="width: 100%; height: 100%; object-fit: contain;"/>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div style="border: 2px solid #000; background-color: #333; color: white; width: 48%; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&theme=radical" style="width: 100%; height: auto;"/>
   </div>
-  <div style="border: 2px solid #000; background-color: #333; color: white; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinMassa&hide_border=true&layout=compact" style="width: 100%; height: 100%; object-fit: contain;"/>
+  <div style="border: 2px solid #000; background-color: #333; color: white; width: 48%; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinMassa&hide_border=true&layout=compact" style="width: 100%; height: auto;"/>
   </div>
 </div>
+
 
 
 
