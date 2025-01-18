@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+:computer: **Student of IT engineer**
+:pencil: **Back-end developer .NET**
+
+### Contact Me
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/ValentinMassa/ValentinMassa/main)
+
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/ValentinMassa/C-and-.NET/main)
+
 <!--
 **ValentinMassa/ValentinMassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
