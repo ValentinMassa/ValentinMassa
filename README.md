@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 :computer: **Student of IT engineer**
+
 :pencil: **Back-end developer .NET**
 
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/ValentinMassa/ValentinMassa/main)
