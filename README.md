@@ -38,11 +38,11 @@ Currently, I work in a networking position configurating servers and optimizing 
 
 ### _Activity_
 
-<img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&theme=radical" align="rigth" style="display:block; margin:auto; width:3000px;" />
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&theme=radical" style="width: 55%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinMassa&hide_border=true&layout=compact" style="width: 50%;"/>
+</div>
 
-### _Languages_
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinMassa&hide_border=true&layout=compact" align="left" style="display:block; margin:auto; width:3000px;" />
 
 
 
