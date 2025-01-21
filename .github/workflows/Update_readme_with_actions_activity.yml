@@ -1,20 +1,18 @@
 name: Update Readme Activity
 on:
   schedule:
-    - cron: "* */12 * * * "
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
   jobs:
-    update-readme:
+    build:
       runs-on: ubuntu-latest
       name: Update Profile Readme Activity
 
       steps:
-        - name: Checkput_repository
           - uses: actions/checkout@v2.3.4
-      
-        - name: Update Readme
+
           - uses: Readme-Workflows/recent-activity@v2.4.1
-           env:
-             GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN }}
+            env:
+                 GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN }}
     
