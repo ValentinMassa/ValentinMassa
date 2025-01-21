@@ -36,19 +36,10 @@ Currently, I work in a networking position configurating servers and optimizing 
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" />
 </a>
 
-### 📈 _Activity_
+### 📈 _Recently Activity_
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 97%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinMassa&hide_border=true&layout=compact" align="left" style="width: 97%" />
-
-</td></tr></table> 
-
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
