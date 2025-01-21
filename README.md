@@ -39,7 +39,7 @@ Currently, I work in a networking position configurating servers and optimizing 
 ### 📈 _Recently Activity_
 
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
 
 
 
