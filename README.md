@@ -38,8 +38,8 @@ Currently, I work in a networking position configurating servers and optimizing 
 
 ### 📈 _Recently Activity_
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 
 
