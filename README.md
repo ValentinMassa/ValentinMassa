@@ -49,6 +49,9 @@ Currently, I work in a networking position configurating servers and optimizing 
 Last Updated: Wednesday, January 22nd, 2025, 11:10:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
+<div> 
+    <img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&theme=radical" style="width: 100%; height: auto; object-fit: contain;"/>  
+</div>
 
 
 
