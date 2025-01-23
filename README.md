@@ -35,6 +35,9 @@ Currently, I work in a networking position configurating servers and optimizing 
 <a href="mailto:valeenmassa2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" />
 </a>
+<a href="https://valentinmassa.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20WebPage-black?style=flat&logo=google&logoColor=white"  />
+</a>
 
 ### 📈 _Recently Activity_
 
@@ -52,7 +55,3 @@ Last Updated: Thursday, January 23rd, 2025, 2:02:34 AM
 <div> 
     <img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&theme=radical" style="width: 100%; height: auto; object-fit: contain;"/>  
 </div>
-
-
-
-
