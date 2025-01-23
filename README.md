@@ -42,14 +42,14 @@ Currently, I work in a networking position configurating servers and optimizing 
 ### 📈 _Recently Activity_
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa](https://github.com/ValentinMassa/ValentinMassa)<br>
-2. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa](https://github.com/ValentinMassa/ValentinMassa)<br>
+1. ✌️ Released [v0.1.0](https://github.com/ValentinMassa/Prueba_Release/releases/tag/v0.1.0) in [ValentinMassa/Prueba_Release](https://github.com/ValentinMassa/Prueba_Release)<br>
+2. ⬆️ Pushed 1 commit(s) to [ValentinMassa/Prueba_Release](https://github.com/ValentinMassa/Prueba_Release)<br>
 3. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa](https://github.com/ValentinMassa/ValentinMassa)<br>
 4. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa](https://github.com/ValentinMassa/ValentinMassa)<br>
 5. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa](https://github.com/ValentinMassa/ValentinMassa)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 23rd, 2025, 2:02:34 AM
+Last Updated: Thursday, January 23rd, 2025, 12:15:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div> 
