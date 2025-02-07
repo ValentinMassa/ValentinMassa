@@ -42,14 +42,14 @@ Currently, I work in a networking position configurating servers and optimizing 
 ### 📈 _Recently Activity_
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ValentinMassa/Valentins_Certifications](https://github.com/ValentinMassa/Valentins_Certifications)<br>
-2. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa](https://github.com/ValentinMassa/ValentinMassa)<br>
-3. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa.github.io](https://github.com/ValentinMassa/ValentinMassa.github.io)<br>
+1. ⬆️ Pushed 2 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+2. ⬆️ Pushed 1 commit(s) to [ValentinMassa/Valentins_Certifications](https://github.com/ValentinMassa/Valentins_Certifications)<br>
+3. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa](https://github.com/ValentinMassa/ValentinMassa)<br>
 4. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa.github.io](https://github.com/ValentinMassa/ValentinMassa.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [ValentinMassa/Valentins_Certifications](https://github.com/ValentinMassa/Valentins_Certifications)<br>
+5. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa.github.io](https://github.com/ValentinMassa/ValentinMassa.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 6th, 2025, 1:12:44 PM
+Last Updated: Friday, February 7th, 2025, 12:39:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div> 
