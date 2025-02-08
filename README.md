@@ -42,14 +42,14 @@ Currently, I work in a networking position configurating servers and optimizing 
 ### 📈 _Recently Activity_
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
-2. 💪 Opened PR [#7](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025/pull/7) in [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
-3. ⬆️ Pushed 2 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
-4. ⬆️ Pushed 1 commit(s) to [ValentinMassa/Valentins_Certifications](https://github.com/ValentinMassa/Valentins_Certifications)<br>
-5. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa](https://github.com/ValentinMassa/ValentinMassa)<br>
+1. ⬆️ Pushed 1 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+2. ❌ Closed PR [#8](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025/pull/8) in [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+3. 💪 Opened PR [#8](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025/pull/8) in [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+4. ⬆️ Pushed 1 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+5. 💬 Commented on [#7](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025/pull/7#discussion_r1947295581) in [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 8th, 2025, 2:00:49 AM
+Last Updated: Saturday, February 8th, 2025, 12:12:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div> 
