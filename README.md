@@ -42,14 +42,14 @@ Currently, I work in a networking position configurating servers and optimizing 
 ### 📈 _Recently Activity_
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
-2. 🎉 Merged PR [#7](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025/pull/7) in [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
-3. 💬 Commented on [#7](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025/pull/7#issuecomment-2645870634) in [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
-4. ⬆️ Pushed 1 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
-5. ❌ Closed PR [#8](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025/pull/8) in [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+1. ✔️ Closed issue [#11](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025/issues/11) in [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+2. ⬆️ Pushed 2 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+3. 🎉 Merged PR [#14](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025/pull/14) in [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+4. 👍 Approved [#14](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025/pull/14#pullrequestreview-2606974599) in [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+5. ⬆️ Pushed 2 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 11th, 2025, 12:39:28 AM
+Last Updated: Tuesday, February 11th, 2025, 2:04:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div> 
