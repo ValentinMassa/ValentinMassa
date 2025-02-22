@@ -43,13 +43,13 @@ Currently, I work in a networking position configurating servers and optimizing 
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ValentinMassa/C-Practical-Development](https://github.com/ValentinMassa/C-Practical-Development)<br>
-2. ⬆️ Pushed 2 commit(s) to [ValentinMassa/C-Practical-Development](https://github.com/ValentinMassa/C-Practical-Development)<br>
-3. ⬆️ Pushed 2 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
-4. ⬆️ Pushed 1 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
-5. ⬆️ Pushed 3 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+2. ⬆️ Pushed 1 commit(s) to [ValentinMassa/C-Practical-Development](https://github.com/ValentinMassa/C-Practical-Development)<br>
+3. ⬆️ Pushed 2 commit(s) to [ValentinMassa/C-Practical-Development](https://github.com/ValentinMassa/C-Practical-Development)<br>
+4. ⬆️ Pushed 2 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
+5. ⬆️ Pushed 1 commit(s) to [hozlucas28/C-Algorithms-Practical-Work-2025](https://github.com/hozlucas28/C-Algorithms-Practical-Work-2025)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 21st, 2025, 1:12:24 PM
+Last Updated: Saturday, February 22nd, 2025, 12:38:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div> 
