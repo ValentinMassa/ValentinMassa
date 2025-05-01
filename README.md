@@ -6,11 +6,10 @@
 
 <div align="left">
 
-I'm a Back-end developer with a strong ability to learn quickly, enabling me to achieve my goals effectively.  
-Currently, I work in a networking position configurating servers and optimizing networks.  
+I'm a Salesforce Seller in training with a strong ability to learn quickly, enabling me to achieve my goals effectively.    
 
 💻 **Student of Computer engineer**  
-🚀 **Back-end developer .NET**
+🚀 **Salesforce Platform**
 
 </div>
 
