@@ -1,23 +1,16 @@
 <div style="text-align: center;">
   <div style="position: relative; display: inline-block;">
-    <!-- Nube vacía sin texto -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Salesforce.com_logo.svg" alt="Salesforce Cloud" style="width: 300px;">
+    <!-- Imagen de una nube estilo Salesforce sin texto -->
+    <img src="https://i.ibb.co/KFtXn1m/salesforce-cloud-blank.png" alt="Salesforce Cloud" style="width: 300px;">
     
-    <!-- Texto dentro de la nube -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 22px; font-weight: bold; font-family: 'Poppins', sans-serif; text-align: center;">
+    <!-- Texto sobre la nube -->
+  <div style="position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%); color: #1d4ed8; font-size: 22px; font-weight: bold; font-family: 'Poppins', sans-serif; text-align: center;">
       VALENTIN MASSA
     </div>
   </div>
-  
-  <!-- Subtítulo debajo de la nube -->
-  <div style="margin-top: 8px; font-size: 18px; color: #6b7280; font-family: 'Poppins', sans-serif;">
-    Salesforce Engineer
-  </div>
-</div>
 
-  
   <!-- Subtítulo debajo de la nube -->
-  <div style="margin-top: 8px; font-size: 18px; color: #6b7280; font-family: 'Poppins', sans-serif;">
+  <div style="margin-top: 10px; font-size: 18px; color: #6b7280; font-family: 'Poppins', sans-serif;">
     Salesforce Engineer
   </div>
 </div>
