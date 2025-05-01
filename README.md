@@ -1,3 +1,16 @@
+<div style="text-align: center;">
+  <div style="position: relative; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Salesforce.com_logo.svg/320px-Salesforce.com_logo.svg.png" alt="Salesforce Cloud" style="width: 300px;">
+    <div style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold; font-family: Poppins, sans-serif;">
+      VALENTIN MASSA
+    </div>
+  </div>
+  <div style="margin-top: 10px; font-size: 20px; color: #6b7280; font-family: Poppins, sans-serif;">
+    Salesforce Engineer
+  </div>
+</div>
+
+
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1d4ed8&font=Poppins&text=Valentin%20Massa&fontSize=70&animation=fadeIn&desc=Salesforce&descAlignY=72&descSize=&descFontColor=6b7280" />
 </div>
