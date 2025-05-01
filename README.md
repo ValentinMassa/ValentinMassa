@@ -4,10 +4,17 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Salesforce.com_logo.svg" alt="Salesforce Cloud" style="width: 300px;">
     
     <!-- Texto dentro de la nube -->
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 22px; font-weight: bold; font-family: 'Poppins', sans-serif; text-align: center;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 22px; font-weight: bold; font-family: 'Poppins', sans-serif; text-align: center;">
       VALENTIN MASSA
     </div>
   </div>
+  
+  <!-- Subtítulo debajo de la nube -->
+  <div style="margin-top: 8px; font-size: 18px; color: #6b7280; font-family: 'Poppins', sans-serif;">
+    Salesforce Engineer
+  </div>
+</div>
+
   
   <!-- Subtítulo debajo de la nube -->
   <div style="margin-top: 8px; font-size: 18px; color: #6b7280; font-family: 'Poppins', sans-serif;">
