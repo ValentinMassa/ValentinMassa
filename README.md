@@ -1,23 +1,5 @@
-<div style="text-align: center;">
-  <div style="position: relative; display: inline-block;">
-    <!-- Imagen de una nube estilo Salesforce sin texto -->
-    <img src="https://i.ibb.co/KFtXn1m/salesforce-cloud-blank.png" alt="Salesforce Cloud" style="width: 300px;">
-    
-    <!-- Texto sobre la nube -->
-  <div style="position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%); color: #1d4ed8; font-size: 22px; font-weight: bold; font-family: 'Poppins', sans-serif; text-align: center;">
-      VALENTIN MASSA
-    </div>
-  </div>
-
-  <!-- Subtítulo debajo de la nube -->
-  <div style="margin-top: 10px; font-size: 18px; color: #6b7280; font-family: 'Poppins', sans-serif;">
-    Salesforce Engineer
-  </div>
-</div>
-
-
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1d4ed8&font=Poppins&text=Valentin%20Massa&fontSize=70&animation=fadeIn&desc=Salesforce&descAlignY=72&descSize=&descFontColor=6b7280" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1d4ed8&font=Poppins&text=Valentin%20Massa&fontSize=70&animation=fadeIn&desc=Salesforce Engineer&descAlignY=72&descSize=&descFontColor=6b7280" />
 </div>
 
 ## **_About Me_**
