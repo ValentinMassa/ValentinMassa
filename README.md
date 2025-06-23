@@ -41,14 +41,14 @@ I'm a Salesforce Seller in training with a strong ability to learn quickly, enab
 ### 📈 _Recently Activity_
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/ValentinMassa/Algoritmos_tp_1c2025/pull/1) in [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
-2. 💪 Opened PR [#1](https://github.com/ValentinMassa/Algoritmos_tp_1c2025/pull/1) in [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
-3. ⬆️ Pushed 1 commit(s) to [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
-4. ✌️ Released [Procesador de Texto](https://github.com/ValentinMassa/Algoritmos_tp_1c2025/releases/tag/v1.0) in [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
+1. ✌️ Released [](https://github.com/ValentinMassa/Algoritmos_tp_1c2025/releases/tag/v2.0) in [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
+2. ⬆️ Pushed 1 commit(s) to [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
+3. ❌ Closed PR [#1](https://github.com/ValentinMassa/Algoritmos_tp_1c2025/pull/1) in [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
+4. 💪 Opened PR [#1](https://github.com/ValentinMassa/Algoritmos_tp_1c2025/pull/1) in [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
 5. ⬆️ Pushed 1 commit(s) to [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 23rd, 2025, 2:47:25 AM
+Last Updated: Monday, June 23rd, 2025, 12:18:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div> 
