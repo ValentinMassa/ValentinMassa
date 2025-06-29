@@ -1,9 +1,23 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=1d2939&fontColor=1d4ed8&fontFamily=Poppins&text=Valentin%20Massa&fontSize=70&desc=Salesforce%20Engineer&descAlignY=72&descFontColor=6b7280&pattern=circuit&icon=https://yourdomain.com/sf-cloud-icon.svg&animation=slideIn" 
-    alt="Valentin Massa Banner" 
+  <img
+    src="https://capsule-render.vercel.app/api?\
+type=waving&\
+color=1f2937&\
+fontColor=4f46e5&\
+fontFamily=Poppins&\
+text=Valentin%20Massa&\
+fontSize=70&\
+desc=Salesforce%20Engineer&\
+descColor=6b7280&\
+descAlignY=80&\
+pattern=circuit&\
+icon=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/salesforce.svg&\
+animation=slideIn\
+"
+    alt="Valentin Massa Banner"
   />
 </div>
+
 
 ## **_About Me_**
 
