@@ -5,8 +5,8 @@
 ## **_About Me_**
 
 <div align="left">
-
-I'm a Salesforce Seller in training with a strong ability to learn quickly, enabling me to achieve my goals effectively.    
+    
+On the path to Salesforce Seller and Solution Engineer: I apply analytical rigor and rapid-learning to build scalable, data-driven workflows.
 
 💻 **Student of Computer engineer**  
 🚀 **Salesforce Platform**
