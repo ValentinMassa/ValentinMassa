@@ -46,14 +46,14 @@ On the path to Salesforce Seller and Solution Engineer: I apply analytical rigor
 ### 📈 _Recently Activity_
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/ValentinMassa/Algoritmos_tp_1c2025/releases/tag/v2.0) in [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
-2. ⬆️ Pushed 1 commit(s) to [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
-3. ❌ Closed PR [#1](https://github.com/ValentinMassa/Algoritmos_tp_1c2025/pull/1) in [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
-4. 💪 Opened PR [#1](https://github.com/ValentinMassa/Algoritmos_tp_1c2025/pull/1) in [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
-5. ⬆️ Pushed 1 commit(s) to [ValentinMassa/Algoritmos_tp_1c2025](https://github.com/ValentinMassa/Algoritmos_tp_1c2025)<br>
+1. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa.github.io](https://github.com/ValentinMassa/ValentinMassa.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa.github.io](https://github.com/ValentinMassa/ValentinMassa.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa.github.io](https://github.com/ValentinMassa/ValentinMassa.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa.github.io](https://github.com/ValentinMassa/ValentinMassa.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [ValentinMassa/ValentinMassa.github.io](https://github.com/ValentinMassa/ValentinMassa.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 29th, 2025, 1:22:13 PM
+Last Updated: Monday, June 30th, 2025, 12:52:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div> 
