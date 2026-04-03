@@ -67,6 +67,3 @@ I combine data engineering, artificial intelligence, and CRM platforms to build 
 Last Updated: Friday, April 3rd, 2026, 1:45:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&theme=radical" style="width: 100%; height: auto; object-fit: contain;"/>  
-</div>
