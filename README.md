@@ -1,7 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:4f46e5&fontColor=ffffff&fontFamily=Poppins&text=Valentin%20Massa&fontSize=70&desc=Data%20%26%20AI%20Specialist%20%7C%20Solution%20Engineer&descColor=c4b5fd&descAlignY=80&animation=slideIn"
-    alt="Valentin Massa Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&fontColor=4f46e5&fontFamily=Poppins&text=Valentin%20Massa&fontSize=70&desc=Salesforce%20Engineer&descColor=6b7280&descAlignY=80&pattern=line-grid&icon=https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/salesforce.svg&animation=slideIn"
   />
 </div>
 
