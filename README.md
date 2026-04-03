@@ -1,7 +1,8 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:4f46e5&fontColor=ffffff&fontFamily=Poppins&text=Valentin%20Massa&fontSize=70&desc=Data%20%26%20AI%20Specialist%20%7C%20Solution%20Engineer&descColor=c4b5fd&descAlignY=80&animation=slideIn"
+    src="./assets/banner.svg"
     alt="Valentin Massa Banner"
+    width="100%"
   />
 </div>
 
@@ -69,5 +70,5 @@ Last Updated: Friday, April 3rd, 2026, 1:45:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&theme=radical" style="width: 100%; height: auto; object-fit: contain;"/>  
+    <img src="./assets/github-stats.svg" alt="ValentinMassa's GitHub Stats" style="width: 100%; height: auto; object-fit: contain;"/>  
 </div>

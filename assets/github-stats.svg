@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#141321;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#251b37;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="495" height="195" rx="10" fill="url(#bg)" stroke="#e4e2e2" stroke-opacity="0.1" />
+  <text x="247" y="85" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="bold" fill="#fe428e">
+    ValentinMassa's GitHub Stats
+  </text>
+  <text x="247" y="120" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" fill="#a9fef7">
+    ⭐ Stats will auto-update via GitHub Actions
+  </text>
+  <text x="247" y="150" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#f8d847">
+    Run the "Generate GitHub Stats Cards" workflow to update
+  </text>
+</svg>

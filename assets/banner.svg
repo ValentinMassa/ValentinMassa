@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="230" viewBox="0 0 854 230">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1f2937;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4f46e5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="854" height="230" fill="url(#grad)" />
+
+  <!-- Waving shape at the bottom -->
+  <path d="M0,180 C150,220 350,150 500,180 C650,210 750,170 854,190 L854,230 L0,230 Z" fill="#0d1117" opacity="0.5" />
+  <path d="M0,195 C200,230 400,170 600,200 C720,215 800,195 854,205 L854,230 L0,230 Z" fill="#0d1117" opacity="0.7" />
+  <path d="M0,210 C100,225 300,195 500,215 C650,228 780,210 854,220 L854,230 L0,230 Z" fill="#0d1117" />
+
+  <!-- Main title -->
+  <text x="427" y="90" text-anchor="middle" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="54" font-weight="bold" fill="#ffffff">
+    Valentin Massa
+  </text>
+
+  <!-- Subtitle -->
+  <text x="427" y="140" text-anchor="middle" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="20" fill="#c4b5fd">
+    Data &amp; AI Specialist | Solution Engineer
+  </text>
+</svg>

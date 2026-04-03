@@ -1,0 +1,36 @@
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Stats SVG
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      # The public API may be temporarily unavailable. When it is down,
+      # the existing SVG in the repo continues to be served, so the
+      # README image never breaks.
+      - name: Generate GitHub Stats SVG
+        run: |
+          mkdir -p assets
+          curl -sf "https://github-readme-stats.vercel.app/api?username=ValentinMassa&show_icons=true&theme=radical" -o assets/github-stats.svg || echo "Stats API unavailable, keeping existing file"
+
+      - name: Commit & Push
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add assets/github-stats.svg
+          git diff --cached --quiet || (git commit -m "chore: auto-update GitHub stats card [skip ci]" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
