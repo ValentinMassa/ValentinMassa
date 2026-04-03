@@ -1,0 +1,6 @@
+MAX_ACTIVITY_COUNT: 5
+IGNORED_ACTIVITY_TYPES:
+  - WatchEvent
+  - ForkEvent
+README_FILE: ./README.md
+COMMIT_MSG: ":zap: Update README with the recent activity"
