@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:4f46e5&fontColor=ffffff&fontFamily=Poppins&text=Valentin%20Massa&fontSize=70&desc=DATA%20%26%20AI%20Specialist&descColor=c4b5fd&descAlignY=80&pattern=line-grid&animation=slideIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:4f46e5&fontColor=ffffff&fontFamily=Poppins&text=Valentin%20Massa&fontSize=70&desc=Data%20%26%20AI%20Specialist%20%7C%20Solution%20Engineer&descColor=c4b5fd&descAlignY=80&animation=slideIn"
     alt="Valentin Massa Banner"
   />
 </div>
@@ -9,7 +9,7 @@
 
 <div align="left">
 
-🧠 **DATA & AI Specialist** at **[ProContacto](https://www.procontacto.com.ar/)**
+🧠 **DATA & AI Specialist | Solution Engineer** at **[ProContacto](https://www.procontacto.com.ar/)**
 
 I combine data engineering, artificial intelligence, and CRM platforms to build scalable, intelligent solutions that drive business value.
 
